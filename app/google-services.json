@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562790931738",
+    "project_id": "tutionhub-856ac",
+    "storage_bucket": "tutionhub-856ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562790931738:android:aca19beaaccda6253660a3",
+        "android_client_info": {
+          "package_name": "com.fwts.tutionhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562790931738-7o7t79tnm3nb7ek0f5rl969hcqvamojp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATajeOxWhBWoIM5K1Zq64SBYWdttfFy_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562790931738-7o7t79tnm3nb7ek0f5rl969hcqvamojp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

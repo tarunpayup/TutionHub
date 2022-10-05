@@ -1,0 +1,33 @@
+Institute Contains Options:
+1. Create
+    a. Student Registration
+    b. Teacher Registration
+    c. Parent Registration
+2. Expense & Incomes
+    a. Incomes - Fees Submission
+    b. Expenses - Amount for any expense
+    c. Monthly Balance (Current Balance + Capital)
+    d. Current Balance = (Income - Expense)
+3. Planner
+    a. Weekly Teacher Schedule
+4. Teacher
+    a. Teacher Monthly Payment
+        - Advance
+        - Dues
+        - Monthly Wages
+    b. Teacher Holidays
+    c. Teacher Requests
+5. Parent
+6. Chat Section Parent-Institute
+7. Whatsapp Message Sending
+8. Notice Section
+
+FORM DETAILS
+-STUDENT
+    NAME,CONTACT NO., ADDRESS, GURADIANS NAME, COURSE DETAILS, COURSE FEES
+-TEACHER
+    NAME, QUALIFICATION, RESIDENCE, MOBILE, SUBJECTS
+-PARENT
+    NAME, WARD NAME
+
+
